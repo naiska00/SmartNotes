@@ -1,4 +1,4 @@
-import { facebook, youtube, linkedin, twitter } from "../assets/icons";
+import { facebook, youtube, linkedin, twitter } from "@/assets/icons";
 
 export const navLinks = [
     { href: "#Features", label: "Features" },
